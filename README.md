@@ -1,5 +1,5 @@
 # Tetris in Python
-## This code was written as a semester work for a course at FIT CTU
+## This code was written as a semestral work for a course at FIT CTU
 
 ## Control
 * right arrow - move the cube to the right
